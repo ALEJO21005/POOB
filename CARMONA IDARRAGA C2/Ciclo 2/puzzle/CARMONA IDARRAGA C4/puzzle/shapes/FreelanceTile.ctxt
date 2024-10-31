@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=FreelanceTile
+comment1.params=row\ col
+comment1.target=FreelanceTile(int,\ int)
+comment2.params=color
+comment2.target=void\ relocate(java.lang.String)
+comment3.params=color
+comment3.target=void\ delete(java.lang.String)
+comment4.params=color
+comment4.target=void\ move(java.lang.String)
+comment5.params=
+comment5.target=void\ setGlued()
+comment6.params=
+comment6.target=void\ setUnglued()
+comment7.params=condition
+comment7.target=void\ setRoot(boolean)
+comment8.params=c
+comment8.target=void\ addGlue(Circle)
+numComments=9

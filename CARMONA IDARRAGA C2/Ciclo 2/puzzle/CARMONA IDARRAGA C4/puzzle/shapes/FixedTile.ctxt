@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=FixedTile
+comment1.params=row\ column
+comment1.target=FixedTile(int,\ int)
+comment2.params=color
+comment2.target=void\ relocate(java.lang.String)
+comment3.params=color
+comment3.target=void\ delete(java.lang.String)
+comment4.params=color
+comment4.target=void\ move(java.lang.String)
+comment5.params=
+comment5.target=void\ setFixedTile()
+comment6.params=
+comment6.target=boolean\ isFixedTile()
+numComments=7

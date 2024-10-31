@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=PuzzleContest
+comment1.params=start\ target
+comment1.target=boolean\ solve(char[][],\ char[][])
+comment2.params=op
+comment2.target=void\ tilt(char)
+comment3.params=
+comment3.target=boolean\ check()
+comment4.params=
+comment4.target=boolean\ same()
+comment5.params=starting\ ending
+comment5.target=void\ simulate(char[][],\ char[][])
+numComments=6
